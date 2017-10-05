@@ -1,8 +1,18 @@
 body {
-	background: url(https://68.media.tumblr.com/6adb015c05a42f69a2a7243c66bf2f6c/tumblr_njw1vysmVQ1qd479ro1_1280.jpg);
+    background: url(https://68.media.tumblr.com/6adb015c05a42f69a2a7243c66bf2f6c/tumblr_njw1vysmVQ1qd479ro1_1280.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    background-position:  center;
-    
+    background-position: center top;
 }
 
+b {
+    color: black
+}
+
+blockquote {
+    color: white
+}
+
+footer {
+    color: black;
+}
